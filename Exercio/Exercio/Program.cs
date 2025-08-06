@@ -17,6 +17,7 @@ namespace Exercio
             n2=Int32.Parse(Console.ReadLine());
             soma = n1 + n2;
             Console.WriteLine("A soma destes dois nrs é" + soma);
+            Console.WriteLine("Pressione qualquer tecla para sair");
         }
     }
 }
