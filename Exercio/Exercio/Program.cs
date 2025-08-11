@@ -16,6 +16,7 @@ class Calculadora
         {
             static void Main()
             {
+                //Exercicio 1
                 int opcao;
 
                 do
@@ -100,8 +101,66 @@ class Calculadora
                 } while (opcao != 0);
 
                 Console.WriteLine("Programa encerrado.");
+                //Exercicio 2
+                using System;
+                using System.Linq;
+                using System.Collections.Generic;
+
+class Program
+            {
+                static void Main()
+                {
+                    Console.WriteLine("=== Cálculo de Soma e Média ===");
+
+                    int quantidade;
+                    List<decimal> numeros = new List<decimal>();
+
+                    // Solicitar quantidade de números (entre 3 e 10)
+                    while (true)
+                    {
+                        Console.Write("Informe a quantidade de números (entre 3 e 10): ");
+                        if (int.TryParse(Console.ReadLine(), out quantidade) && quantidade >= 3 && quantidade <= 10)
+                        {
+                            break;
+                        }
+                        else
+                        {
+                            Console.WriteLine("⚠ Quantidade inválida! Digite um número inteiro entre 3 e 10.");
+                        }
+                    }
+
+                    // Solicitar os números
+                    for (int i = 0; i < quantidade; i++)
+                    {
+                        decimal valor;
+                        while (true)
+                        {
+                            Console.Write($"Digite o {i + 1}º número: ");
+                            if (decimal.TryParse(Console.ReadLine(), out valor))
+                            {
+                                numeros.Add(valor);
+                                break;
+                            }
+                            else
+                            {
+                                Console.WriteLine("⚠ Valor inválido! Digite um número válido (pode ser decimal, positivo ou negativo).");
+                            }
+                        }
+                    }
+
+                    // Usando System.Linq para calcular soma e média
+                    decimal soma = numeros.Sum();
+                    decimal media = numeros.Average();
+
+                    // Resultado
+                    Console.WriteLine("\n=== Resultados ===");
+                    Console.WriteLine($"Soma: {soma}");
+                    Console.WriteLine($"Média: {media}");
+                }
             }
+
         }
+    }
 
     }
 }
