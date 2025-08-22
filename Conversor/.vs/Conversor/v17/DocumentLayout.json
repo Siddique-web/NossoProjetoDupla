@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\NossoProjetoDupla\\Conversor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DF68EA-10A5-4A3D-AF03-629023E984D1}|Conversor\\Conversor.csproj|c:\\users\\user\\source\\repos\\nossoprojetodupla\\conversor\\conversor\\data\\appdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DF68EA-10A5-4A3D-AF03-629023E984D1}|Conversor\\Conversor.csproj|solutionrelative:conversor\\data\\appdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DF68EA-10A5-4A3D-AF03-629023E984D1}|Conversor\\Conversor.csproj|c:\\users\\user\\source\\repos\\nossoprojetodupla\\conversor\\conversor\\data\\appdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2DF68EA-10A5-4A3D-AF03-629023E984D1}|Conversor\\Conversor.csproj|solutionrelative:conversor\\data\\appdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DF68EA-10A5-4A3D-AF03-629023E984D1}|Conversor\\Conversor.csproj|c:\\users\\user\\source\\repos\\nossoprojetodupla\\conversor\\conversor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DF68EA-10A5-4A3D-AF03-629023E984D1}|Conversor\\Conversor.csproj|solutionrelative:conversor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DF68EA-10A5-4A3D-AF03-629023E984D1}|Conversor\\Conversor.csproj|c:\\users\\user\\source\\repos\\nossoprojetodupla\\conversor\\conversor\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DF68EA-10A5-4A3D-AF03-629023E984D1}|Conversor\\Conversor.csproj|solutionrelative:conversor\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8AD629-9E0E-4933-80D0-96C1E900E4C5}|Conversor.Data\\Conversor.Data.csproj|c:\\users\\user\\source\\repos\\nossoprojetodupla\\conversor\\conversor.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8AD629-9E0E-4933-80D0-96C1E900E4C5}|Conversor.Data\\Conversor.Data.csproj|solutionrelative:conversor.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DF68EA-10A5-4A3D-AF03-629023E984D1}|Conversor\\Conversor.csproj|c:\\users\\user\\source\\repos\\nossoprojetodupla\\conversor\\conversor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2DF68EA-10A5-4A3D-AF03-629023E984D1}|Conversor\\Conversor.csproj|solutionrelative:conversor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 383,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDb.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NossoProjetoDupla\\Conversor\\Conversor\\Data\\AppDb.cs",
+              "RelativeDocumentMoniker": "Conversor\\Data\\AppDb.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NossoProjetoDupla\\Conversor\\Conversor\\Data\\AppDb.cs",
+              "RelativeToolTip": "Conversor\\Data\\AppDb.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:59:35.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDb.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NossoProjetoDupla\\Conversor\\Conversor\\Data\\AppDb.cs",
+              "RelativeDocumentMoniker": "Conversor\\Data\\AppDb.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NossoProjetoDupla\\Conversor\\Conversor\\Data\\AppDb.cs [Design]",
+              "RelativeToolTip": "Conversor\\Data\\AppDb.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:59:29.614Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NossoProjetoDupla\\Conversor\\Conversor\\Program.cs",
+              "RelativeDocumentMoniker": "Conversor\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NossoProjetoDupla\\Conversor\\Conversor\\Program.cs",
+              "RelativeToolTip": "Conversor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:55:39.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NossoProjetoDupla\\Conversor\\Conversor.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "Conversor.Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NossoProjetoDupla\\Conversor\\Conversor.Data\\Class1.cs",
+              "RelativeToolTip": "Conversor.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:45:09.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NossoProjetoDupla\\Conversor\\Conversor\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Conversor\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NossoProjetoDupla\\Conversor\\Conversor\\Form1.Designer.cs",
+              "RelativeToolTip": "Conversor\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:34:43.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NossoProjetoDupla\\Conversor\\Conversor\\Form1.cs",
+              "RelativeDocumentMoniker": "Conversor\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NossoProjetoDupla\\Conversor\\Conversor\\Form1.cs [Design]",
+              "RelativeToolTip": "Conversor\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:33:37.055Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

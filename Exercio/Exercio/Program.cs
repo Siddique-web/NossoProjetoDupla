@@ -102,11 +102,9 @@ class Calculadora
 
                 Console.WriteLine("Programa encerrado.");
                 //Exercicio 2
-                using System;
-                using System.Linq;
-                using System.Collections.Generic;
+                
 
-class Program
+            class Programa
             {
                 static void Main()
                 {
@@ -125,7 +123,7 @@ class Program
                         }
                         else
                         {
-                            Console.WriteLine("⚠ Quantidade inválida! Digite um número inteiro entre 3 e 10.");
+                            Console.WriteLine("Quantidade inválida! Digite um número inteiro entre 3 e 10.");
                         }
                     }
 
@@ -143,7 +141,7 @@ class Program
                             }
                             else
                             {
-                                Console.WriteLine("⚠ Valor inválido! Digite um número válido (pode ser decimal, positivo ou negativo).");
+                                Console.WriteLine("Valor inválido! Digite um número válido (pode ser decimal, positivo ou negativo).");
                             }
                         }
                     }
@@ -156,8 +154,49 @@ class Program
                     Console.WriteLine("\n=== Resultados ===");
                     Console.WriteLine($"Soma: {soma}");
                     Console.WriteLine($"Média: {media}");
+
+                    //Novos exercicios
+                   
+
+                class NovoPrograma
+                {
+                    // Método que soma 5 inteiros e retorna via parâmetros out
+                    public static bool AddInts(out int soma)
+                    {
+                        soma = 0;
+
+                        for (int i = 1; i <= 5; i++)
+                        {
+                            Console.Write($"Digite o {i}º número inteiro: ");
+                            if (int.TryParse(Console.ReadLine(), out int valor))
+                            {
+                                soma += valor;
+                            }
+                            else
+                            {
+                                Console.WriteLine("Entrada inválida. Operação cancelada.");
+                                return false; // Falha na leitura
+                            }
+                        }
+
+                        return true; // Sucesso
+                    }
+
+                    static void Main()
+                    {
+                        if (AddInts(out int resultado))
+                        {
+                            Console.WriteLine($" Soma bem-sucedida! Resultado = {resultado}");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Erro ao ler os números. Tente novamente.");
+                        }
+                    }
                 }
+
             }
+        }
 
         }
     }

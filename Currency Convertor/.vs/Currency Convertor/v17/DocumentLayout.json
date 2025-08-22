@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\NossoProjetoDupla\\Currency Convertor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C02052-77E0-438F-B174-1B6B92EF069A}|Currency Convertor\\Currency Convertor.csproj|c:\\users\\user\\source\\repos\\nossoprojetodupla\\currency convertor\\currency convertor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C02052-77E0-438F-B174-1B6B92EF069A}|Currency Convertor\\Currency Convertor.csproj|solutionrelative:currency convertor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C02052-77E0-438F-B174-1B6B92EF069A}|Currency Convertor\\Currency Convertor.csproj|c:\\users\\user\\source\\repos\\nossoprojetodupla\\currency convertor\\currency convertor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4C02052-77E0-438F-B174-1B6B92EF069A}|Currency Convertor\\Currency Convertor.csproj|solutionrelative:currency convertor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C02052-77E0-438F-B174-1B6B92EF069A}|Currency Convertor\\Currency Convertor.csproj|c:\\users\\user\\source\\repos\\nossoprojetodupla\\currency convertor\\currency convertor\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C02052-77E0-438F-B174-1B6B92EF069A}|Currency Convertor\\Currency Convertor.csproj|solutionrelative:currency convertor\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 383,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NossoProjetoDupla\\Currency Convertor\\Currency Convertor\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Currency Convertor\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NossoProjetoDupla\\Currency Convertor\\Currency Convertor\\Form1.Designer.cs",
+              "RelativeToolTip": "Currency Convertor\\Form1.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:42:53.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NossoProjetoDupla\\Currency Convertor\\Currency Convertor\\Form1.cs",
+              "RelativeDocumentMoniker": "Currency Convertor\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NossoProjetoDupla\\Currency Convertor\\Currency Convertor\\Form1.cs",
+              "RelativeToolTip": "Currency Convertor\\Form1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADMAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:11:22.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NossoProjetoDupla\\Currency Convertor\\Currency Convertor\\Form1.cs",
+              "RelativeDocumentMoniker": "Currency Convertor\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NossoProjetoDupla\\Currency Convertor\\Currency Convertor\\Form1.cs [Design]",
+              "RelativeToolTip": "Currency Convertor\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:10:19.512Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

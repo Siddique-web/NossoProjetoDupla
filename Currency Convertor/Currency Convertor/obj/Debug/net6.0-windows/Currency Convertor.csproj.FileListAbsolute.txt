@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\NossoProjetoDupla\Currency Convertor\Currency Convertor\bin\Debug\net6.0-windows\Currency Convertor.exe
+C:\Users\User\source\repos\NossoProjetoDupla\Currency Convertor\Currency Convertor\bin\Debug\net6.0-windows\Currency Convertor.deps.json
+C:\Users\User\source\repos\NossoProjetoDupla\Currency Convertor\Currency Convertor\bin\Debug\net6.0-windows\Currency Convertor.runtimeconfig.json
+C:\Users\User\source\repos\NossoProjetoDupla\Currency Convertor\Currency Convertor\bin\Debug\net6.0-windows\Currency Convertor.dll
+C:\Users\User\source\repos\NossoProjetoDupla\Currency Convertor\Currency Convertor\bin\Debug\net6.0-windows\Currency Convertor.pdb
+C:\Users\User\source\repos\NossoProjetoDupla\Currency Convertor\Currency Convertor\obj\Debug\net6.0-windows\Currency_Convertor.Form1.resources
+C:\Users\User\source\repos\NossoProjetoDupla\Currency Convertor\Currency Convertor\obj\Debug\net6.0-windows\Currency Convertor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\NossoProjetoDupla\Currency Convertor\Currency Convertor\obj\Debug\net6.0-windows\Currency Convertor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\NossoProjetoDupla\Currency Convertor\Currency Convertor\obj\Debug\net6.0-windows\Currency Convertor.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NossoProjetoDupla\Currency Convertor\Currency Convertor\obj\Debug\net6.0-windows\Currency Convertor.AssemblyInfo.cs
+C:\Users\User\source\repos\NossoProjetoDupla\Currency Convertor\Currency Convertor\obj\Debug\net6.0-windows\Currency Convertor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NossoProjetoDupla\Currency Convertor\Currency Convertor\obj\Debug\net6.0-windows\Currency Convertor.sourcelink.json
+C:\Users\User\source\repos\NossoProjetoDupla\Currency Convertor\Currency Convertor\obj\Debug\net6.0-windows\Currency Convertor.dll
+C:\Users\User\source\repos\NossoProjetoDupla\Currency Convertor\Currency Convertor\obj\Debug\net6.0-windows\refint\Currency Convertor.dll
+C:\Users\User\source\repos\NossoProjetoDupla\Currency Convertor\Currency Convertor\obj\Debug\net6.0-windows\Currency Convertor.pdb
+C:\Users\User\source\repos\NossoProjetoDupla\Currency Convertor\Currency Convertor\obj\Debug\net6.0-windows\Currency Convertor.genruntimeconfig.cache
+C:\Users\User\source\repos\NossoProjetoDupla\Currency Convertor\Currency Convertor\obj\Debug\net6.0-windows\ref\Currency Convertor.dll
