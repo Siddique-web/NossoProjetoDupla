@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Compilados / build
+bin/
+obj/
+[Bb]uild/
+[Rr]elease*/
+[Dd]ebug*/
+[Ll]ogs/
+
+# IDEs
+.vscode/
+.idea/
+.Rider/
+
+# Testes
+TestResult*/
+*.trx
+*.coverage
+*.coveragexml
+
+# Pacotes / artefatos
+*.nupkg
+*.snupkg
+packages/
+publish/
